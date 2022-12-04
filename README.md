@@ -2,7 +2,7 @@
 - 👀 I’m interested in { Web Development, Front End Design, WordPress Development, Android Development }
 - 🌱 I’m currently learning with JavaScript Frameworks including { Node, Angular, React }
 - 🤓 I have experince with databases like { MySQL, Maria DB, Firebase, Sanity Studio and Mongo DB }
-- 💞️ I’m looking to work with entry leve oppotunities of Front-End Developer, Wordpress Developer and other eligible profile and opportunities.
+- 💞️ I’m looking to work with entry level oppotunities of Front-End Developer, Wordpress Developer and other eligible profile and opportunities.
 - 📫 How to reach me { mailto:adittyagaliara@gmail.com }
 
 <!---
